@@ -35,8 +35,14 @@ Navigation bar fixed */
 }
 
 
-.ast-flex.main-header-container {
+/*.ast-flex.main-header-container {
     background-color: #A67F68;
+    opacity: 0.9;
+}
+*/
+
+.ast-flex.main-header-container {
+    background-color: purple;
     opacity: 0.9;
 }
 
